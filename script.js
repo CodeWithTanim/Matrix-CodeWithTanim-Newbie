@@ -18,7 +18,7 @@ const terminalData = [
         response: [
             "Location : India / Bangladesh",
             "Platform : Windows / Linux / Android / Termux",
-            "University : CSE (6th Semester)"
+            "University : adtU CSE (6th Semester)"
         ]
     },
     {
