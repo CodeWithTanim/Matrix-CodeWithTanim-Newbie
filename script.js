@@ -26,7 +26,6 @@ const terminalData = [
         response: [
             "<ul>\
                 <li>Python Development & Automation</li>\
-                // <li>Web Development (HTML, CSS, JS)</li>\
                 <li>Telegram Bot Development</li>\
                 <li>GitHub & Open Source Projects</li>\
                 <li>Cyber Security Learning</li>\
